@@ -1,0 +1,51 @@
+body {
+    background-color: burlywood;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+h1 {
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: limegreen;
+}
+
+h3 {
+    font-size: 60px;
+    color: aqua;
+}
+
+p {
+    font-size: 2rem;
+    color: limegreen;
+    font-family: cursive;
+
+}
+
+button {
+    font-size: 15px;
+    background-color: blanchedalmond;
+    color: lightseagreen;
+}
+
+img {
+    max-width: 60%;
+
+}
+
+footer {
+    font-family: cursive;
+    color: maroon;
+    text-align: center;
+    font-size: initial;
+}
